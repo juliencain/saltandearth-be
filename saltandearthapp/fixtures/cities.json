@@ -1,0 +1,11 @@
+[
+    {
+      "model": "saltandearthapp.city",
+      "pk": 1,
+      "fields": {
+        "name": "Charleston, South Carolina",
+        "image": "https://example.com/image1.jpg"
+      }
+    }
+  ]
+  

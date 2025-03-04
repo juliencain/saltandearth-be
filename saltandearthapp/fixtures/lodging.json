@@ -1,0 +1,17 @@
+[
+    {
+      "model": "saltandearthapp.lodging",
+      "pk": 1,
+      "fields": {
+        "user_id": 1,
+        "uid": "user123",
+        "city_id": 1,
+        "name": "Coastal Retreat",
+        "address": "123 Seaside Avenue, Ocean City, USA",
+        "description": "A beautiful and relaxing coastal retreat perfect for a weekend getaway.",
+        "image": "https://example.com/coastal_retreat.jpg",
+        "link": "https://example.com/coastal-retreat"
+      }
+    }
+  ]
+  
