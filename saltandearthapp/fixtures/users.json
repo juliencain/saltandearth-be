@@ -1,0 +1,33 @@
+[
+    {
+        "model": "saltandearthapp.user",
+        "pk": 1,
+        "fields": {
+            "first_name": "Julien",
+            "last_name": "Smith",
+            "bio": "Adventurer and tour enthusiast.",
+            "uid": "user123"
+        }
+    },
+    {
+        "model": "saltandearthapp.user",
+        "pk": 2,
+        "fields": {
+            "first_name": "Alex",
+            "last_name": "Sengy",
+            "bio": "Lover of travel and exploring hidden gems.",
+            "uid": "user456"
+        }
+    },
+    {
+        "model": "saltandearthapp.user",
+        "pk": 3,
+        "fields": {
+            "first_name": "Josh",
+            "last_name": "Kincaid",
+            "bio": "Tour guide with years of experience.",
+            "uid": "KMnkWlm7NOSTfPj8D2GmPr2Kt232"
+        }
+    }
+  ]
+  
