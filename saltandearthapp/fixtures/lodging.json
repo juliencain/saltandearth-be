@@ -1,16 +1,16 @@
 [
     {
-        "model": "saltandearthapp.restaurant",
-        "pk": 1,
-        "fields": {
-            "user_id": 1,
-            "uid": "user123",
-            "city_id": 1,
-            "name": "Seaside Grill",
-            "address": "456 Beachside Road, Coastal City, USA",
-            "description": "A lively and vibrant seafood restaurant offering the best ocean views.",
-            "image": "https://example.com/seaside_grill.jpg",
-            "link": "https://example.com/seaside-grill"
-        }
+      "model": "saltandearthapp.lodging",
+      "pk": 1,
+      "fields": {
+        "user_id": 1,
+        "uid": "user123",
+        "city_id": 1,
+        "name": "Coastal Retreat",
+        "address": "123 Seaside Avenue, Ocean City, USA",
+        "description": "A beautiful and relaxing coastal retreat perfect for a weekend getaway.",
+        "image": "https://example.com/coastal_retreat.jpg",
+        "link": "https://example.com/coastal-retreat"
+      }
     }
 ]
