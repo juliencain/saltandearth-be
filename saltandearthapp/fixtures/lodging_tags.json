@@ -1,0 +1,18 @@
+[
+    {
+      "model": "saltandearthapp.lodgingtag",
+      "pk": 1,
+      "fields": {
+        "lodging": 1,
+        "tag": 3
+      }
+    },
+    {
+      "model": "saltandearthapp.lodgingtag",
+      "pk": 2,
+      "fields": {
+        "lodging": 1,
+        "tag": 3
+      }
+    }
+]
