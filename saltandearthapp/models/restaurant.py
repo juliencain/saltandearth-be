@@ -4,6 +4,7 @@ from .city import City
 
 class Restaurant(models.Model):
     user_id = models.ForeignKey(User, on_delete=models.CASCADE, related_name='restaurants')
+    uid = models.CharField(max_length=50)
     name = models.CharField(max_length=50)
     address = models.CharField(max_length=255)
     image = models.URLField()
