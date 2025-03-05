@@ -1,0 +1,18 @@
+[
+    {
+      "model": "saltandearthapp.restauranttag",
+      "pk": 1,
+      "fields": {
+        "restaurant": 1,
+        "tag": 1
+      }
+    },
+    {
+      "model": "saltandearthapp.restauranttag",
+      "pk": 2,
+      "fields": {
+        "restaurant": 1,
+        "tag": 5
+      }
+    }
+]

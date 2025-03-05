@@ -4,5 +4,5 @@ from saltandearthapp.models.tag import Tag
 
 
 class RestaurantTag(models.Model):
-    restaurant_id = models.ForeignKey(Restaurant, on_delete=models.CASCADE, related_name="restaurant_tags")
-    tag_id = models.ForeignKey(Tag, on_delete=models.CASCADE, related_name="restaurants")
+    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE, related_name="restaurant_tags")
+    tag = models.ForeignKey(Tag, on_delete=models.CASCADE, related_name="restaurants")

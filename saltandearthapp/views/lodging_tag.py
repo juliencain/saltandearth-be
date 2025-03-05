@@ -59,4 +59,4 @@ class LodgingTagSerializer(serializers.ModelSerializer):
             'lodging',
             'tag'
         )
-        # depth = 1
+        depth = 1
