@@ -1,0 +1,51 @@
+[
+    {
+      "model": "saltandearthapp.tag",
+      "pk": 1,
+      "fields": {
+        "name": "lgbt friendly"
+      }
+    },
+    {
+      "model": "saltandearthapp.tag",
+      "pk": 2,
+      "fields": {
+        "name": "affordable"
+      }
+    },
+    {
+      "model": "saltandearthapp.tag",
+      "pk": 3,
+      "fields": {
+        "name": "solar powered"
+      }
+    },
+    {
+      "model": "saltandearthapp.tag",
+      "pk": 4,
+      "fields": {
+        "name": "green"
+      }
+    },
+    {
+      "model": "saltandearthapp.tag",
+      "pk": 5,
+      "fields": {
+        "name": "local"
+      }
+    },
+    {
+      "model": "saltandearthapp.tag",
+      "pk": 6,
+      "fields": {
+        "name": "sustainable"
+      }
+    },
+    {
+      "model": "saltandearthapp.tag",
+      "pk": 7,
+      "fields": {
+        "name": "ethical"
+      }
+    }
+  ]
