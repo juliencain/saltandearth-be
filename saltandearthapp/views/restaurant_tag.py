@@ -61,4 +61,4 @@ class RestaurantTagSerializer(serializers.ModelSerializer):
     class Meta:
         model = RestaurantTag
         fields = ('restaurant', 'tag')
-        depth = 1  # To include related restaurant and tag details
+        depth = 1 
