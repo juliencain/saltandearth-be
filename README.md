@@ -13,7 +13,8 @@ Salt and Earth connects eco-conscious travelers with sustainable coastal destina
 - Implement the code.
 
 
-
+# PRESENTATION
+https://docs.google.com/presentation/d/1o4ovt8G5fpI2KuKsxczvH5sjo2xbtv81jndE37A7cmA/edit#slide=id.g33916c8e93e_0_351
 
 # LOOM VIDEOS
 https://www.loom.com/share/dc2bc734c70544f1b2ede6b1270fe9cc
